@@ -1,0 +1,2 @@
+# WorkSmart
+Daily Work Plan
