@@ -8,15 +8,19 @@
 * 还是未能实现
 ###阅读blog文章
 [Android中线程那些事][1]
+
  [Java中的Runnable、Callable、Future、FutureTask的区别和CompletionService的使用场景][2]
 
 ###Retrofit源码查看
 [Retrofit分析-漂亮的解耦套路][3]
+
 [Retrofit源码解读（自己的相关分析和逻辑）][4]
+
 [Retrofit分析-经典设计模式案例][5]
 
 ###RxJava操作符的创建型和转换型操作符总结
 [RxJava学习之创建型操作符][6]
+
 [RxJava学习之转换型操作符][7]
 ###每日GET技能(linux)
 * 1、cd命令

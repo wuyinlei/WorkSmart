@@ -14,11 +14,14 @@
 
 ###技术文章
 [Android RecyclerView与ListView局部刷新][1]
+
 [Android EditText的使用及值得注意的地方][2]
+
 [Android软键盘的用法总结][3]
 
 ###开源库
 [MPAndroidChart(Android各种图标库)][4]
+
 [图表库简单介绍文章][5]
 
 ###每日GET技能
