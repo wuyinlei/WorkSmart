@@ -6,8 +6,11 @@
 ##时间--2017年3月20号
 
 ###空余时间
-[Android动态计算ListView高度][1]
-[Android CollapsingToolbarLayout collapse Listener][2]
+
+* [Android动态计算ListView高度][1]
+
+* [Android CollapsingToolbarLayout collapse Listener][2]
+
 ###公司项目
 
 ###每日GET技能

@@ -6,9 +6,13 @@
 ##时间--2017年3月24号
 
 ###空余时间
-[Android可伸缩布局－FlexboxLayout(支持RecyclerView集成)][1]
+
+* [Android可伸缩布局－FlexboxLayout(支持RecyclerView集成)][1]
+
 ###公司项目
-尽量完成动态详情界面
+
+* 尽量完成动态详情界面
+
 ###每日GET技能
 
 

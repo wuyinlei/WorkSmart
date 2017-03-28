@@ -6,7 +6,8 @@
 ##时间--2017年3月19号
 
 ###空余时间
-[Android CollapsingToolbarLayout collapse Listener][1](其实是控制AppBarLayout的展开和折叠的)
+
+* [Android CollapsingToolbarLayout collapse Listener][1](其实是控制AppBarLayout的展开和折叠的)
 
 
 ###公司项目

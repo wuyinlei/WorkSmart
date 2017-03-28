@@ -4,24 +4,28 @@
 
 ---
 ##时间--2017年3月9号
+
 ###工作计划
-任务划分
+
+* 任务划分
 
 ###空闲时间
 
 * 阅读相关blog
 
-[ObjectAnimator 基本使用][1]
+* [ObjectAnimator 基本使用][1]
 
-[CoordinatorLayout+AppBarLayout+CollapsingToolbarLayout][2]
+* [CoordinatorLayout+AppBarLayout+CollapsingToolbarLayout][2]
 
-[Android Material Design之CoordinatorLayout全面使用介绍][3]
+* [Android Material Design之CoordinatorLayout全面使用介绍][3]
 
-[通过来模仿稀土掘金个人页面的布局来学习使用CoordinatorLayout][4]
+* [通过来模仿稀土掘金个人页面的布局来学习使用CoordinatorLayout][4]
 
 
 ###RxJava相关知识总结
-[RxJava学习之结合(组合)型操作符][5]
+
+* [RxJava学习之结合(组合)型操作符][5]
+
 ###每日GET技能(linux)
 
 * cp命令
