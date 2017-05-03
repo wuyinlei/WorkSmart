@@ -30,6 +30,7 @@
 >稀缺迫使我们产生了权衡式思维。所有那些没有被满足的需要俘获了我们的大脑,成了我们时时刻刻念念不忘的事情。
 
 >余闲就是我们在拥有很大空间,不存在稀缺心态的产物,也是我们在资源丰富时进行资源管理的特定方式。
+
   [1]: http://blog.csdn.net/megatronkings/article/details/51417510
   [2]: http://www.cnblogs.com/purediy/p/3276545.html
   [3]: http://stackoverflow.com/questions/14900738/nested-fragments-disappear-during-transition-animation
