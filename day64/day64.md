@@ -14,7 +14,7 @@
 
 ###阅读文章<br>
 * [你别来了，我不想谈恋爱了][6]
-* 四年了，我爱你！ww.jianshu.com/p/98bb3bc2b051
+* [四年了，我爱你！][7]
 
 ###每日工作<br>
 
@@ -45,3 +45,4 @@ private void changeHandlerVaule(Object tn){
   [4]: http://www.jianshu.com/p/d650d02a1c7a
   [5]: https://juejin.im/post/58c21aa944d9040068e71e2c
   [6]: http://www.jianshu.com/p/c8df6a1be800
+  [7]: http://www.jianshu.com/p/98bb3bc2b051
